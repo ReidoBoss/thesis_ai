@@ -17,6 +17,11 @@ const router = createRouter({
       name: "edit",
       component: () => import("../mainPages/EditUser.vue"),
     },
+    {
+      path: "/Map",
+      name: "Map",
+      component: () => import("../mainPages/Map.vue"),
+    },
 
   ],
 });

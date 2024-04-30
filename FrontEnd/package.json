@@ -14,8 +14,10 @@
     "axios": "^1.6.8",
     "flowbite": "^2.3.0",
     "flowbite-datepicker": "^1.2.6",
+    "leaflet": "^1.9.4",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "vue2-leaflet": "^2.7.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
